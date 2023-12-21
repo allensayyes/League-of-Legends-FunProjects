@@ -40,7 +40,7 @@ for index, row in df.iterrows():
 previous_spy_keys = []
 
 # Print out the spy table
-print(df)
+# print(df)
 
 # Draw a single spy key
 draw_spy_key(previous_spy_keys)
