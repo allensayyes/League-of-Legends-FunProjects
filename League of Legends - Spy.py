@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import pandas as pd
 import random
 
@@ -31,10 +25,6 @@ def reset_spy_keys():
     global previous_spy_keys
     previous_spy_keys = []
 
-
-# In[ ]:
-
-
 # Create a dataframe with 'spy_id' and 'spy_name'
 data = {'spy_key': [''.join(random.choices(string.ascii_letters + string.digits + string.punctuation, k=10)) for _ in range(5)],
         'spy_name': ['Allen', 'Kasper', 'Hao', 'Haotian', 'Chef Liz']}
@@ -49,20 +39,11 @@ for index, row in df.iterrows():
 # Initialize an empty list to store previous spy keys
 previous_spy_keys = []
 
-
-# In[ ]:
-
-
 # Print out the spy table
 print(df)
-
-
-# In[ ]:
-
 
 # Draw a single spy key
 draw_spy_key(previous_spy_keys)
 
 # Resetting spy keys
 # reset_spy_keys()
-
