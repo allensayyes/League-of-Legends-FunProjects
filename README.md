@@ -35,7 +35,7 @@ http://localhost:8501
 If deployed via [Streamlit Cloud](https://streamlit.io/cloud), you can access it from anywhere:
 
 ```
-https://your-username.streamlit.app
+[https://your-username.streamlit.app](https://league-of-legends-funprojects.streamlit.app/)
 ```
 
 No installation required — just upload a CSV and click a button.
@@ -71,10 +71,8 @@ E
 
 _Add a screenshot of your Streamlit app here for visual reference:_
 
-```markdown
 ![image](https://github.com/user-attachments/assets/5fadb4ce-a4f9-46f8-88be-156a237b8525)
 
-```
 
 ---
 
