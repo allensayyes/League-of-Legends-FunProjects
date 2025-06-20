@@ -31,10 +31,11 @@ http://localhost:8501
 ---
 
 ### 🌍 Public Deployment (Streamlit Cloud)
+Currently publicly deployed at (https://league-of-legends-funprojects.streamlit.app/)
 
 If deployed via [Streamlit Cloud](https://streamlit.io/cloud), you can access it from anywhere:
 
-[https://your-username.streamlit.app](https://league-of-legends-funprojects.streamlit.app/)
+[https://your-username.streamlit.app]
 
 No installation required — just upload a CSV and click a button.
 
