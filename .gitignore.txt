@@ -1,0 +1,12 @@
+# Virtual env
+.venv/
+
+# PyCharm settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+outputs/
